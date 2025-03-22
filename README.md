@@ -44,3 +44,9 @@ The project relies on the following Python packages (see `requirements.txt` for 
 ## Usage
 
 The primary entry points for the project are the two Jupyter notebooks. Use them to train the model, compare the optimizers, and view visualizations of their behavior.
+
+## Results  
+
+Below is a graph comparing the performance of Shampoo, NGD, and Adam optimizers:  
+
+![Results](results.png)  
